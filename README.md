@@ -1,21 +1,92 @@
+<div align="center">
+
+# Hi, I'm ShineLight 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Developer;Building+Interesting+Things;Welcome!" />
+
+<p>
+  <a href="https://shinelight.xyz/">
+    <img src="https://img.shields.io/badge/Blog-博客-green?style=flat-square&logo=rss&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+
+## 👋 About Me
+
+Hello，我是 ShineLight。
+
+喜欢折腾，不止Coding。
+
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shine-Light/Shine-Light/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 <div align="center">
-  <img src='https://readme-typing-svg.herokuapp.com/?lines=System.out.println("Hello+World!");欢迎你的到来!&center=true'
-</div>
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shine-Light&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<!--   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shine-Light&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Shine-Light&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shine-Light&count_private=true&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-正在学习
-  
-![Java](https://img.shields.io/badge/Java-yellow.svg?logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?logo=MySQL&logoColor=white)
-![Html5](https://img.shields.io/badge/Html5-E34F26.svg?logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717.svg?logo=Github&logoColor=white)
-  
+
+
+
+## 🛠 Tech Stack
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,go,cpp" />
+</p>
+
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
+Spring Boot · Spring MVC · Spring Cloud · Spring Cloud Alibaba · FastAPI
+
+
+### Database & Middleware
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,kafka,elasticsearch" />
+</p>
+MySQL · Redis · RabbitMQ · RocketMQ · Kafka · Elasticsearch
+
+
+### Frontend & Application
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,ts,electron" />
+</p>
+Vue3 · React · TypeScript · UniApp · Electron
+
+
+### DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions,cloudflare" />
+</p>
+Linux · Docker · Nginx · Git · GitHub Actions · Cloud Services
+
+
+### AI
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+LLM Application · Agent · RAG · LangChain · LangGraph · MCP
+
+## 🎨 Beyond Coding
+🎵 音乐 · 影音 · 乐器  
+🏠 智能家居 · 家庭影院 · NAS  
+🌐 网络 · 服务器 · IDC  
+🎮 游戏 · 电影 · 数码
+
+
+## 📫 Contact
+
+📧 Email: shine_light@qq.com  
+🌐 Website: [shinelight.xyz](https://shinelight.xyz/)  
+🐙 GitHub: [Shine-Light](https://github.com/Shine-Light)  
+
+</p>
