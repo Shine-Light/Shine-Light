@@ -21,7 +21,7 @@ Hello，我是 ShineLight。
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shine-Light/Shine-Light/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Shine-Light/Shine-Light/gh-pages/github-contribution-grid-snake.svg" />
 </div>
 
 
